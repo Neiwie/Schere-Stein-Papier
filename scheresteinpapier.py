@@ -1,4 +1,5 @@
 import random
+## V2
 
 eingabe = (input("Geben ein schere/stein/papier: "))
 items = ["schere", "stein", "papier"]
